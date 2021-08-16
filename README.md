@@ -1,6 +1,6 @@
 # Kodluyoruz ilk repo
 
-Bu repo [Kodluyoruz]("https://kodluyoruz.org") Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğum ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
 ![resim](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz]("https://kodluyoruz.org") Eğitimi kapsamında açtığım 
 ## Installation 
 -----------
 
-Öncelikle projeyi clonelayın. [link]()
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/olkeoguz/kodluyoruzilkrepo.gitgit
